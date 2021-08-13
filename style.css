@@ -1,0 +1,437 @@
+body{
+    background-color: #343A40;
+}
+.box-center
+{
+   margin-top: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color:#FFA900 ;
+    color: white;
+}
+.title
+{
+    font-size: 5rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+line-height:4rem; ;
+}
+.titlee
+{ font-size: 5rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+    
+}
+.ob{
+
+    margin-bottom: 0;
+    font-size: 7rem;
+ 
+    color:#FF2626;
+    
+    font-family: 'Archivo Black', sans-serif;
+}
+.sity
+{
+   
+    padding-left:17%;
+  
+    margin-top:100px;
+}
+.chil{
+    line-height: 25px;
+    margin-top:0;
+    font-size: 2.3rem;
+    font-weight: 900;
+    color:white;
+    
+    font-family: 'Noto Sans JP', sans-serif;
+ 
+    
+}
+.sp
+{
+    font-weight: 800;
+
+    margin-bottom: 0;
+}
+.title1
+{
+    line-height:4.5rem;
+    font-size: 5rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;  
+    display: inline-block;
+    margin: 0;
+  padding-right: 55px;
+  padding-left: 90px;
+ 
+}
+.p{
+    color:white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.9rem;  
+    font-weight: lighter;
+}
+.pbold
+{
+    font-family: 'Noto Sans JP', sans-serif;
+    color:white;
+    font-size: 2.4rem;
+    font-weight: 900;
+}
+.img
+{
+    margin-right: 25px;
+    width:18%;
+    float: left;
+   padding-top: 20px;
+ 
+
+}
+.sec
+{
+    
+    background-color: #00BCD4;
+    padding-bottom: 40px;
+}
+.mainmain
+{
+    padding-left: 0px;
+}
+.mainmain1
+{
+    padding-right: 0px;
+}
+.sec1
+{
+    background-color: #EF4F4F;
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+.h
+{
+    margin:0;
+     font-family: 'Noto Sans JP', sans-serif ;
+    color:white;
+    font-size: 2.5rem;
+    font-weight: 900;
+    padding-left: 60px;
+
+
+
+}
+.is{
+    display: inline-block;
+}
+.three
+{
+    width:20%;
+ 
+  
+  
+}
+.four
+{
+    width: 15%;
+    float:left;
+   position: absolute;
+   margin-right:
+  
+}
+.cigi
+{
+    width:70%;
+    margin-left:10px;
+    padding-bottom: 10px;
+
+
+}
+.poverty
+{
+    width:70%;
+    margin-left:10px;   padding-bottom: 10px;
+ 
+}
+.drink
+{
+    width:70%;
+    margin-left:10px;   padding-bottom: 10px;
+   
+}
+.old{
+    font-size: 1.7rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: lighter;
+}
+.old1{    font-size: 1.8rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: lighter;
+
+}
+.midel1
+{
+   
+    margin-top:58px;
+    
+   
+  
+}
+.mim
+{
+    font-size: 1.9rem;
+    font-weight: lighter;
+}
+.midel2
+{
+   
+    margin-left:20px;
+    margin-top:58px;
+    
+}
+.midel3
+{  
+    margin-top:58px;
+}
+
+.paragraph
+{
+font-weight: lighter;
+    padding-left:60px;
+    text-align: left;
+    padding-top:50px;
+   
+}
+.incre
+{
+    font-size: 1.9rem;
+}
+.m99
+{
+    background-color:#00BCD4;
+}
+.ge
+{
+    width:10%;
+    display: inline-block;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+
+}
+.risk
+{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 2.4rem;
+    padding-left: 60px;
+    padding-top: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 900;
+}
+.old 
+{
+    margin-left: 60px;
+}
+.old1 
+{
+    margin-left:50px;
+}
+.frenchfries
+{
+    margin-top: 100px;
+    background-color: #EF4F4F;
+   margin-right: 0%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.juice
+{ 
+    padding-bottom: 50px;
+    margin-top: 100px;
+    padding-left:0%;
+    background-color: #FFA900;
+text-align: center;
+}
+.french{
+    width:15%;
+    padding-top: 20px;
+   
+}
+.juic{
+width:15%;
+padding-top: 60px;
+padding-bottom: 20px;
+}
+.h666
+{
+    font-size: 1.9rem;
+font-weight: normal;
+color: white;
+
+}
+.h6666
+{    font-size: 1.9rem;
+    font-weight: normal;
+    color: white;
+
+}
+.smm
+{
+padding-right: 0%;
+}
+.smmm
+{
+    padding-left: 0%;
+}
+.frr
+{
+    padding-top: 60px;
+    font-size: 2.4rem;
+    color: white;
+    font-weight: 900;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.jui
+{   font-size: 2.4rem;
+    color: white;
+    font-weight: 900;font-family: 'Noto Sans JP', sans-serif;
+}
+.h66{
+    font-size: 4.9rem;
+    color: white;
+    font-weight: 800;font-family: 'Noto Sans JP', sans-serif ;
+    
+}
+.tv{
+background-color:#00BCD4 ;
+margin-top: 100px;
+padding-bottom: 60px;
+margin-left:0;
+margin-right:0;
+}
+.of{
+   
+color:white;
+font-size: 5rem;
+padding-left:60px;
+font-weight:900;
+font-family: 'Noto Sans JP', sans-serif;
+line-height: 4.9rem;
+
+}
+.watch
+{
+    padding-top:20px;
+    font-size: 1.9rem;
+    color: white;
+    font-weight: normal;
+    padding-left: 60px;
+}
+.ld
+{
+    width:75%;
+  
+  margin-top: 45px;
+  margin-left:20px;
+}
+.cy
+{
+   width:75%;
+   margin-top:105px;
+   margin-left:5px;
+
+}
+.pan
+{
+    margin-top:100px;
+    margin-left:0;
+    margin-right:0;
+    background-color:#FFA900 ;
+}
+.near
+{
+    
+    color:white;
+    font-size: 5rem;
+    padding-left:60px;
+    font-weight:900;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-bottom:0;
+    line-height:4.9rem;
+
+}
+.near1
+{
+    padding-top:50px;
+}
+.dont
+{
+    padding-top:20px;
+    font-weight: lighter;
+    font-size: 1.9rem;
+    color:white;
+    padding-left:60px;
+    padding-bottom: 50px;
+}
+.money1
+{
+    text-align: center;
+   margin-top:100px;
+    background-color: #00BCD4;
+    padding-bottom: 50px;
+
+}
+.money2
+{
+    text-align: center;
+    background-color: #EF4F4F;
+    margin-top:100px;padding-bottom: 50px;
+}
+.money
+{
+    width:20%;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.mon{
+    padding-right:0;
+}
+.monmon
+{
+    padding-left:0;
+}
+.billion 
+{
+    color:white;
+font-size: 5rem;
+
+font-weight:900;
+font-family: 'Noto Sans JP', sans-serif;
+margin-top: 0;
+line-height: 4.7rem;
+}
+.united
+{
+    color:white;
+    font-size: 1.9rem;
+    font-weight:lighter;
+    padding-bottom: 20px;
+    
+}
+.acti{
+    color:white;
+    font-size: 2.4rem;
+    padding-top:60px;
+    font-weight:900;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding-bottom: 15px; 
+}
+.school
+{
+    color:white;
+    font-size: 1.9rem;
+    font-weight:lighter;  
+    line-height: 3rem;
+}
